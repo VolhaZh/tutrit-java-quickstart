@@ -12,5 +12,5 @@ Here the list of environment tools we'll use for study on course\
 5. And we will use git as version control system - so I suggest install [Git Client](https://git-scm.com/downloads). I suggest you this one - [Windows Git Client](https://git-scm.com/download/win) - you can work with it as in linux system
 
 # No environment quickstart
-You start study without complicated environment installation if you use [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+You start study without complicated environment installation if you use [IntelliJ IDEA](https://www.jetbrains.com/idea/) \
 Video instruction could be found here [JDK - no environment installation quickstart](https://youtu.be/lc1q_BAGAzw)
