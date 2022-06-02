@@ -13,5 +13,4 @@ Here the list of environment tools we'll use for study on course\
 
 # No environment quickstart
 You start study without complicated environment installation if you use [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lc1q_BAGAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video instruction could be found here [JDK - no environment installation quickstart](https://youtu.be/lc1q_BAGAzw)
